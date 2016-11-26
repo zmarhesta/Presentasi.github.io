@@ -150,7 +150,7 @@
 			parallaxBackgroundSize: '2100px 900px', // CSS syntax, e.g. "3000px 2000px"
 
 			// Amount of pixels to move the parallax background per slide step
-			parallaxBackgroundHorizontal: 200,
+			parallaxBackgroundHorizontal: 80,
 			parallaxBackgroundVertical: 30,
 
 			// Number of slides away from the current that are visible
